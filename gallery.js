@@ -1,1 +1,1 @@
-gallery.js
+//document ready
