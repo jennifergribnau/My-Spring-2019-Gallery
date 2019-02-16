@@ -1,9 +1,10 @@
 // document ready function
-
+$(document).ready(function(){}
 	// DEFINE YOUR VARIABLES
 	// select all the slides (value of the variable will be an array)
-var 
+var
 	// set the ndex slide (number) AKA where we start
+
 
 	// current slide based on the index
 
