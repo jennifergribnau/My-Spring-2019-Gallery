@@ -2,7 +2,7 @@
 
 	// DEFINE YOUR VARIABLES
 	// select all the slides (value of the variable will be an array)
-
+var 
 	// set the ndex slide (number) AKA where we start
 
 	// current slide based on the index
