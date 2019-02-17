@@ -1,7 +1,7 @@
 h2 {
   color: maroon;
   font-family: arial; 
-  font-size: 40px;
+  font-size: 30px;
   text-align: center;
 
 }
@@ -19,8 +19,8 @@ h2 {
 }
 
 img {
-	height: 500px;
-	width: 650px;
+	height: 450px;
+	width: 600px;
 	border-style: dashed;
 	border-color: white;
 	display: block;
@@ -36,11 +36,21 @@ button {
 	font-size: 14px;
 	background-color: black;
 	color: white;
-	margin-left: center;
-	margin-right: center;
-	display: block;
 }
 
+.previous {
+	margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:45%;
+}
+
+.next {
+	margin: -20px -50px; 
+    position:relative;
+    top:50%; 
+    left:55%;
+}
 body {
 	background-color: turquoise;
 }
