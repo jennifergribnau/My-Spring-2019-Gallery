@@ -1,6 +1,7 @@
 h2 {
   color: green;
   font-family: arial; 
+  font-size: 40px
 }
 
 .slide {
@@ -8,6 +9,18 @@ h2 {
 }
 
 .caption {
-  color: purple;
+  color: blue;
   font-family: georgia;
+  font-size: 25px
+}
+
+img {
+	height: 500px;
+	width: 650px;
+}
+
+button {
+	height: 50px;
+	width: 75px;
+	font-weight: bold; 
 }
